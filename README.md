@@ -9,6 +9,11 @@
 
 ## [Change log](https://headwayapp.co/vicaption-changelog)
 
+0.4.0:
+- Add 2 new masks!
+- Ability to render non-human faces
+- Small fixes
+
 0.3.0:
 - Host releases on Github
 - Self-updater - download and install new updates directly from app
