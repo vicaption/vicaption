@@ -9,6 +9,10 @@
 
 ## [Change log](https://headwayapp.co/vicaption-changelog)
 
+0.5.0:
+- Face mask stabilization!
+- Fix: broken mask when moving your head left <-> right
+
 0.4.0:
 - Add 2 new masks!
 - Ability to render non-human faces
