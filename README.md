@@ -9,6 +9,10 @@
 
 ## [Change log](https://headwayapp.co/vicaption-changelog)
 
+0.6.1:
+- Better logging
+- Attempt to fix green / orange / black camera
+
 0.6.0:
 - Add 1 new face mask! (empty face)
 - Fix: left eye distortion
