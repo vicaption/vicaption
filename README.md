@@ -9,6 +9,14 @@
 
 ## [Change log](https://headwayapp.co/vicaption-changelog)
 
+0.9.0:
+- Vicaption platform release! (https://my.vicaption.com)
+- App UI moved to a new website
+- Integration with StreamLabs and DonationAlerts
+- Introducing facemask triggers on donation, follow and subscribe events
+- Rewritten camera app for more efficiency and stability
+- Application binaries are signed with Microsoft trusted certificate for more security and trust
+
 0.6.1:
 - Better logging
 - Attempt to fix green / orange / black camera
