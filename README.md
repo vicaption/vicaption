@@ -1,6 +1,6 @@
 ## Resources
 
-- [Website](https://vicaption.com/?utm_source=github)
+- [Website](https://new.vicaption.com/?utm_source=github)
 - [Handbook](https://vicaption.com/handbook)
 - [Facebook](https://www.facebook.com/vicaption/)
 - [Twitter](https://twitter.com/vicaption)
@@ -8,6 +8,9 @@
 - [Discord](https://discordapp.com/invite/ZwMDNre)
 
 ## [Change log](https://headwayapp.co/vicaption-changelog)
+
+0.9.1:
+- Minor fixes
 
 0.9.0:
 - Vicaption platform release! (https://my.vicaption.com)
